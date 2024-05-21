@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "Cypress-1",
+			"path": "../../Cypress-1"
+		}
+	],
+	"settings": {}
+}
